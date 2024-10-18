@@ -34,7 +34,7 @@ The statistical information is as follows, and you can click on the `Name` to na
 | [UK-2002](https://law.di.unimi.it/webdata/uk-2002/) | 18,483,190 | 261,787,260 | 944 |
 | [Arabic-2005](https://law.di.unimi.it/webdata/arabic-2005/) | 22,743,892 | 553,903,073 | 3,248 |
 | [IT-2004](https://law.di.unimi.it/webdata/it-2004/) | 41,290,648 | 1,027,474,947 | 3,224 |
-| [Friendster](https://snap.stanford.edu/data/com-Friendster.html) | 124,836,180 | 1,806,067,135 | 1 |
+| [Friendster](https://snap.stanford.edu/data/com-Friendster.html) | 124,836,180 | 1,806,067,135 | 129 |
 
 
 ## How to Run the Codes
