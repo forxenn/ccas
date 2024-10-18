@@ -77,7 +77,7 @@ For example, here is a correct graph file with 4 vertices and 5 edges
 
 `max_iter` is a number of iterations the program takes. If you want the program to stop by a given $\epsilon$, please set this as 0.
 
-`eps` is the threshold for $\epsilon$. The program will terminate itself once it reaches the $\epsilon$. This should be set as a float number greater than 0. To use this argument, please set `max_iter` as zero.
+`eps` is the threshold for $\epsilon$. The program will terminate itself once it reaches the $\epsilon$ threshold. This should be set as a float number greater than 0. To use this argument, please set `max_iter` as zero.
 
 `kmax` is a parameter used for our graph reduction techniques `HCGR`, it can be set as any non-zero integer values not greater than the maximum clique size of the given graph. To achieve the best performance, please set this as the maximum clique size. The maximum clique size for all datasets we used in our experiment have been included in the table above.
 
