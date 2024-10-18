@@ -87,4 +87,4 @@ For example, if we want to run the CCAS algorithm to approximate 5-cliques dense
 
 If we want to run the CCAS-A algorithm to approximate cliques densest subgraph for all k values from the graph in `dblp.txt` by an $\epsilon$ threshold of 0.01 . The command should be:
 
-`./ccas-a dblp.txt 114 0 1.01 114`
+`./ccas-a dblp.txt 114 0 0.01 114`
