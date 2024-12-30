@@ -2,7 +2,8 @@
 
 This repository contains C++ codes for the paper:
 
-> Practically and Theoretically Efficient Algorithm for 𝑘-Clique Densest Subgraph Discovery
+> Efficient 𝑘-Clique Densest Subgraph Discovery: Towards Bridging
+Practice and Theory
 
 ## Introduction
 
